@@ -30,3 +30,32 @@
 *.exe
 *.out
 *.app
+
+# Compile directory
+build/
+
+# Protobuf-generated files
+*.pb.h
+*.pb.cc
+
+# Backup files
+*.bak
+
+# Vscode 
+.vscode/
+
+# Vim
+.*.swp
+*.swp
+.*.swo
+*.swo
+tags
+tags.lock
+tags.temp
+*.vim
+
+# Compressed files
+*.gz
+
+# OS X folder attributes
+.DS_Store
